@@ -19,8 +19,8 @@
 #include <LiquidCrystal_I2C.h>
 
 // HX711 circuit wiring
-const int LOADCELL_DOUT_PIN = 2;
-const int LOADCELL_SCK_PIN = 3;
+#define LOADCELL_DOUT_PIN         2
+#define LOADCELL_SCK_PIN          3
 
 // scale - 10Kg loadcell : 226~228 // 측정 값 226~228당 1g으로 변환
 float loadcellValue = 226.0;
@@ -95,6 +95,5 @@ void loop() {
   lcd.print(value);
   lcd.print(" g    ");
    
-  
   delay(1000);
 }

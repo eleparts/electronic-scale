@@ -2,7 +2,7 @@
 * 엘레파츠 전자저울 예제 프로그램 - loadcell + HX711
 * 사용 라이브러리 : https://github.com/bogde/HX711
 * 
-* 하드웨어 연결
+* 아두이노 GPIO 연결
 * loadcell / HX711 board
 * Dout PIN : D2
 * SCK PIN  : D3

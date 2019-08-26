@@ -4,7 +4,7 @@
 * HX711 : https://github.com/bogde/HX711
 * I2C LCD : https://github.com/johnrickman/LiquidCrystal_I2C
 * 
-* 하드웨어 연결
+* 아두이노 GPIO 연결
 * loadcell / HX711 board
 * Dout PIN : D2
 * SCK PIN  : D3
@@ -42,7 +42,7 @@
 #define CHANGE_OFFSET_VALUE       0.1
 
 // 최대 측정 범위 (g)
-#define LOADCELL_MAX_RANGE 10000
+#define LOADCELL_MAX_RANGE        10000
 
 // scale - 10Kg loadcell : 226~228 // 측정 값 226~228당 1g으로 변환
 float loadcellValue = 226.0;

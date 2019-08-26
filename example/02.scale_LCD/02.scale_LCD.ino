@@ -4,7 +4,7 @@
 * HX711 : https://github.com/bogde/HX711
 * I2C LCD : https://github.com/johnrickman/LiquidCrystal_I2C
 * 
-* 하드웨어 연결
+* 아두이노 GPIO 연결
 * loadcell / HX711 board
 * Dout PIN : D2
 * SCK PIN  : D3

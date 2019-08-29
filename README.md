@@ -4,7 +4,7 @@
 전자저울 모듈은 아래 엘레파츠 링크에서 만나보실 수 있습니다.  
 
 저울(로드셀, A/D보드 포함) 모듈 (납땜 작업 필요)  
-=URL= 
+=준비중= 
 
  
 ##  필요 구성 상품 리스트
@@ -34,11 +34,12 @@ GitHub 링크
 [전자저울 / HX711 ADC 라이브러리 (HX711)](https://github.com/bogde/HX711)  
 [I2C LCD 라이브러리 (LiquidCrystal_I2C)](https://github.com/johnrickman/LiquidCrystal_I2C)  
 
-아두이노 라이브러리 매니저
-![HX711](./library image/01.HX711.png)  
-![LiquidCrystal_I2C](./library image/02.LiquidCrystal_I2C.png)  
+아두이노 라이브러리 매니저  
+![HX711](./library%20image/01.HX711.png)  
+![LiquidCrystal_I2C](./library%20image/02.LiquidCrystal_I2C.png)  
   
 
 ## 참고 - 블로그 포스팅
 
 엘레파츠 블로그
+=준비중=

@@ -28,18 +28,18 @@
 
 ## 필수 라이브러리  
   
-아래  두 라이브러리가 필요하며, 아두이노 IDE 내에서 라이브러리 관리자를 통해 다운로드 할 수 있습니다.  
+아래 두 라이브러리가 필요하며, 아두이노 IDE 내에서 라이브러리 관리자를 통해 다운로드 할 수 있습니다.  
   
-GitHub 링크  
+- **GitHub 링크**  
 [전자저울 / HX711 ADC 라이브러리 (HX711)](https://github.com/bogde/HX711)  
 [I2C LCD 라이브러리 (LiquidCrystal_I2C)](https://github.com/johnrickman/LiquidCrystal_I2C)  
 
-아두이노 라이브러리 매니저  
+- **아두이노 라이브러리 매니저**  
   
-HX711  
+**HX711**  
 ![HX711](./library%20image/01.HX711.png)  
   
-LiquidCrystal_I2C  
+**LiquidCrystal_I2C**  
 ![LiquidCrystal_I2C](./library%20image/02.LiquidCrystal_I2C.png)  
   
 

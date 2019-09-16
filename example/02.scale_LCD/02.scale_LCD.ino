@@ -22,7 +22,8 @@
 #define LOADCELL_DOUT_PIN         2
 #define LOADCELL_SCK_PIN          3
 
-// scale - 10Kg loadcell : 226~228 // 측정 값 226~228당 1g으로 변환
+// scale - 10Kg loadcell : 226 / 5kg loadcell : 372
+// ADC 모듈에서 측정된 결과값을 (loadcellValue)값 당 1g으로 변환해 줌
 float loadcellValue = 226.0;
 
 HX711 scale;

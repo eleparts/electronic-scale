@@ -41,8 +41,8 @@
 // 오프셋 수동 조절 시 변경할 단위(g)
 #define CHANGE_OFFSET_VALUE       0.1
 
-// 최대 측정 범위 (g)
-#define LOADCELL_MAX_RANGE        10000
+// 최대 측정 범위(g) - 로드셀에 맞춰 설정
+#define LOADCELL_MAX_RANGE        100000
 
 // 평균을 구하기 위한 무게 측정 횟수
 #define NUMBER_OF_MEASURMENTS     5
@@ -50,7 +50,8 @@
 // 안정화 오차값(g) MAX 수치 - 무게 측정 시 흔들림 등으로 값이 출렁이는 경우에 대한 오차 경고(LED) 범위 지정
 #define STABILIZATION_ERROR_VALUE 5 
 
-// scale - 10Kg loadcell : 226~228 // 측정 값 226~228당 1g으로 변환
+// scale - 10Kg loadcell : 226 / 5kg loadcell : 372
+// ADC 모듈에서 측정된 결과값을 (loadcellValue)값 당 1g으로 변환해 줌
 float loadcellValue = 226.0;
 
 // SW status - PULLUP / avtive : low

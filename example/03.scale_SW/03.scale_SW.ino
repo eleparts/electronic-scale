@@ -44,7 +44,8 @@
 // 최대 측정 범위 (g)
 #define LOADCELL_MAX_RANGE        10000
 
-// scale - 10Kg loadcell : 226~228 // 측정 값 226~228당 1g으로 변환
+// scale - 10Kg loadcell : 226 / 5kg loadcell : 372
+// ADC 모듈에서 측정된 결과값을 (loadcellValue)값 당 1g으로 변환해 줌
 float loadcellValue = 226.0;
 
 // SW status - PULLUP / avtive : low
@@ -152,7 +153,7 @@ void SwitchCheck(){
 
     lcd.clear();
     lcd.print("== Auto Offset ==");
-    Serial.print("== Auto Offset ==");
+    Serial.println("== Auto Offset ==");
     delay(1000);
 
     AutoOffsetSetting(); 

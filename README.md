@@ -2,10 +2,9 @@
 
 아두이노 전자저울의 예제 코드입니다.  
 전자저울 모듈은 아래 엘레파츠 링크에서 만나보실 수 있습니다.  
-
-저울(로드셀, A/D보드 포함) 모듈 (납땜 작업 필요)  
-=준비중= 
-
+  
+[저울(로드셀, A/D보드 포함) 모듈 (납땜 작업 필요)](https://www.eleparts.co.kr/EPXNX99X)  
+  
  
 ##  필요 구성 상품 리스트
 
@@ -44,8 +43,9 @@
   
 
 ## 참고 - 블로그 포스팅
-
-엘레파츠 블로그
-- [01. 조립 및 동작 테스트하기](https://blog.naver.com/elepartsblog/221651788693)  
+  
+엘레파츠 블로그  
+- [01. 조립 및 동작 테스트하기](https://blog.naver.com/elepartsblog/221651788693)   
 - [02. I2C LCD로 측정 값 출력하기](https://blog.naver.com/elepartsblog/221651804182)  
 - [03. 스위치로 저울 조작하기](https://blog.naver.com/elepartsblog/221651833358)  
+  

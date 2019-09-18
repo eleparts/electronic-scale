@@ -46,4 +46,6 @@
 ## 참고 - 블로그 포스팅
 
 엘레파츠 블로그
-=준비중=
+- [01. 조립 및 동작 테스트하기](https://blog.naver.com/elepartsblog/221651788693)  
+- [02. I2C LCD로 측정 값 출력하기](https://blog.naver.com/elepartsblog/221651804182)  
+- [03. 스위치로 저울 조작하기](https://blog.naver.com/elepartsblog/221651833358)  

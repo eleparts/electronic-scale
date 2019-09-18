@@ -15,7 +15,7 @@
 |-----------|-------------------|----------------------------------|
 |1|아두이노			|https://www.eleparts.co.kr/EPX4P4P3|
 |1|USB 케이블|https://www.eleparts.co.kr/EPXCTKGJ|
-|1|저울 모듈        | - |
+|1|저울 모듈        |https://www.eleparts.co.kr/EPXNX99X|
 |1|M/F 점퍼 케이블		|https://www.eleparts.co.kr/EPXCTKH9|
 |2|1602 IIC LCD 		|https://www.eleparts.co.kr/EPXHVBKK|
 |2|브레드보드			|https://www.eleparts.co.kr/EPX34N7P|

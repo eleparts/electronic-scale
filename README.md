@@ -2,10 +2,12 @@
 
 아두이노 전자저울의 예제 코드입니다.  
 전자저울 모듈은 아래 엘레파츠 링크에서 만나보실 수 있습니다.  
+
+저울(로드셀, A/D보드 포함) 모듈 (납땜 작업 필요) 
+- [로드셀 5kg 모듈](https://www.eleparts.co.kr/EPXNX99X)  
+- [로드셀 10kg 모듈](https://www.eleparts.co.kr/EPXNXBP3)  
   
-[저울(로드셀, A/D보드 포함) 모듈 (납땜 작업 필요)](https://www.eleparts.co.kr/EPXNX99X)  
   
- 
 ##  필요 구성 상품 리스트
 
 아래 리스트는 본 예제를 실행하기 위한 구성품 목록입니다.
@@ -14,7 +16,8 @@
 |-----------|-------------------|----------------------------------|
 |1|아두이노			|https://www.eleparts.co.kr/EPX4P4P3|
 |1|USB 케이블|https://www.eleparts.co.kr/EPXCTKGJ|
-|1|저울 모듈        |https://www.eleparts.co.kr/EPXNX99X|
+|1-A|저울 모듈  5kg  |https://www.eleparts.co.kr/EPXNX99X|
+|1-B|저울 모듈  10kg  |https://www.eleparts.co.kr/EPXNXBP3|
 |1|M/F 점퍼 케이블		|https://www.eleparts.co.kr/EPXCTKH9|
 |2|1602 IIC LCD 		|https://www.eleparts.co.kr/EPXHVBKK|
 |2|브레드보드			|https://www.eleparts.co.kr/EPX34N7P|

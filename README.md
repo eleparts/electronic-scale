@@ -44,8 +44,13 @@
 - **LiquidCrystal_I2C**  
 ![LiquidCrystal_I2C](./library%20image/02.LiquidCrystal_I2C.png)  
   
+## H/W 연결  
+  
+회로 구성도 이미지   
+![회로 구성 예제 이미지](https://github.com/eleparts/electronic-scale/tree/master/circuit%20image)  
 
-## 참고 - 블로그 포스팅
+
+## 참고자료(사용법) - 블로그 포스팅
   
 엘레파츠 블로그  
 - [01. 조립 및 동작 테스트하기](https://blog.naver.com/elepartsblog/221651788693)   

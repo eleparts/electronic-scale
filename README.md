@@ -47,7 +47,7 @@
 ## H/W 연결  
   
 회로 구성도 이미지   
-![회로 구성 예제 이미지](https://github.com/eleparts/electronic-scale/tree/master/circuit%20image)  
+[회로 구성 예제 이미지](https://github.com/eleparts/electronic-scale/tree/master/circuit%20image)  
 
 
 ## 참고자료(사용법) - 블로그 포스팅
